@@ -1,6 +1,6 @@
 ## HCL_TECH_ENDGAME
 
-#Legal Document Analyser using RAG 
+# Legal Document Analyser using RAG 
 
 A “Legal Document Analyser” is a tool (or a structured method) that helps you understand any legal document quickly and clearly.
 
@@ -8,7 +8,7 @@ A “Legal Document Analyser” is a tool (or a structured method) that helps yo
 Tech Stacks using - LLM models (free model via hugging face mostly or gemini models using api )
 if our system not work well - we do quantization using Lora/Qlora finetuning llm
 
-#how we do ? -  Objectives
+## Methodology
 
 -load constitution data (books , pdf , reserach paper etc )
 -then we do document chuncking (documentloder for documentload)
