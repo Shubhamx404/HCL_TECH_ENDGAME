@@ -118,6 +118,13 @@ This is built using a **RAG (Retrieval-Augmented Generation)** pipeline, where r
      - CLI interface (e.g. `/app_cli.py`)
 
 ---
+# workflow -> How we implementing rag.
+[workflow](![WhatsApp Image 2025-12-04 at 4 37 46 PM](https://github.com/user-attachments/assets/749810e3-5bf1-4acc-988d-068fe81119ab)
+
+-We deployed it using streamlit
+
+# demo working page 
+[page](![WhatsApp Image 2025-12-04 at 19 45 00_acd236cc](https://github.com/user-attachments/assets/45c40f73-9f40-4ef8-a07a-f49428d89986)
 
 ## 📂 Project Structure (Example)
 
