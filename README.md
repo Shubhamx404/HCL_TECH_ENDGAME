@@ -1,11 +1,11 @@
 ## HCL_TECH_ENDGAME
 
 # Legal Document Analyser using RAG 
-contributed by -
-Aditya Amarnath - 22035002(Ceramic Eng)
-Shubham kumar sharma -22045132 (chemical engg)
-Lakshya Aryan -22035039(ceramic engg)
-Devang Darpe - 22035025(Ceramic Eng)
+-contributed by -
+-Aditya Amarnath - 22035002(Ceramic Eng)
+-Shubham kumar sharma -22045132 (chemical engg)
+-Lakshya Aryan -22035039(ceramic engg)
+-Devang Darpe - 22035025(Ceramic Eng)
 
 A “Legal Document Analyser” is a tool (or a structured method) that helps you understand any legal document quickly and clearly.
 
