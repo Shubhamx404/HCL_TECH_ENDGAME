@@ -157,11 +157,11 @@ legal-document-analyser/
 ## Methodology
 
 -load constitution data (books , pdf , reserach paper etc )
--then we do document chuncking (documentloder for documentload)
--we cteate as function for case breif - genrate case breif 
--text chunking - we chunk larger data into smaller chunks 
+-then we do document chunking (documentloder for documentload)
+-we create  function for case breif - genrate case breif 
+-text chunking - we chunk larger data into smaller chunks (Tokenization)
 
--we do store  embedding using vector database(**A futuristic digital illustration of a legal AI assistant. A glowing digital version of a 
+-we do store  embeddings  using vector database(**A futuristic digital illustration of a legal AI assistant. A glowing digital version of a 
 Constitution book is open in the center, with streams of binary code and glowing nodes connecting specific legal articles to a chatbot 
 interface on a glass tablet. The background is a clean, professional dark blue with cyber-security aesthetics. High tech, detailed, isometric view.**)
 
